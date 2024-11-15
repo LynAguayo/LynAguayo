@@ -32,7 +32,7 @@
 
 ---
 
-### 🐾 **Extras divertidos:**  
+### 🐾 **Extras:**  
 <div align="center">  
   <img src="https://i.gifer.com/XOsX.gif" alt="Pato caminando" width="100px">  
   <img src="https://i.gifer.com/Pak.gif" alt="Conejo saludando" width="100px">  
