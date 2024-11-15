@@ -5,6 +5,8 @@
 
 <img src="https://i.gifer.com/23wE.gif" alt="Gato de bienvenida" width="300px">  
 
+[![Perfil de GitHub](https://img.shields.io/github/followers/LynAguayo?style=social)](https://github.com/LynAguayo)  
+
 </div>  
 
 ---
@@ -13,6 +15,8 @@
 - 🎓 Actualmente curso DAM y mi objetivo es convertirme en una **Back-End Developer** especializada en **Java**.  
 - 🔐 También me interesa la **Ciberseguridad** y explorar cómo proteger aplicaciones y sistemas.  
 - 🎮 En mis ratos libres, estoy desarrollando un videojuego de carreras con **Python** y **Pygame** (¡pronto compartiré más!).  
+
+[🔗 Consulta mi currículum aquí](#) <!-- Aquí puedes añadir un enlace a tu currículum en formato PDF o LinkedIn -->
 
 ---
 
@@ -31,6 +35,10 @@
 ### 📊 **Mi actividad en GitHub:**  
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=LynAguayo&show_icons=true&theme=radical" alt="Estadísticas de LynAguayo">  
+  <br>  
+  ![Gráfico de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=LynAguayo&theme=radical)  
+  <br>  
+  ![Gráfico de actividad reciente](https://activity-graph.herokuapp.com/graph?username=LynAguayo&theme=radical)  
 </div>  
 
 ---
