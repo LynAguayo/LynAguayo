@@ -34,13 +34,11 @@
 
 ### 📊 **Mi actividad en GitHub:**  
 <div align="center">
-  
-  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LynAguayo&show_icons=true&theme=radical)
-
-  ![Gráfico contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=LynAguayo&theme=radical)
-
-  ![Gráfico de actividad reciente](https://github-readme-activity-graph.cyclic.app/graph?username=LynAguayo&theme=radical)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=LynAguayo&show_icons=true&theme=radical" style="max-width: 45%; height: auto;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LynAguayo&theme=radical" style="max-width: 45%; height: auto;">
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LynAguayo&theme=radical" alt="Contribution Graph" width="800px">
 </div>
 
 ---
