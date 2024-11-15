@@ -38,7 +38,7 @@
 ### 📊 **Mi actividad en JO-EL:**  
 <div align="center">  
   <a href="https://jo-el.es/user/Evelyn" target="_blank">  
-    <img src="https://jo-el.es/static/icons/logo.svg" alt="JO-EL Logo" width="100px">  
+    <img src="https://jo-el.es/static/icons/logo.svg" alt="JO-EL Logo" width="200px">  
   </a>  
   <br>  
   <a href="https://jo-el.es/user/Evelyn" target="_blank">https://jo-el.es/user/Evelyn</a>  
@@ -48,12 +48,12 @@
 
 ### 🐾 👋⭐ **Nos vemos** ⭐👋  
 <div align="center">  
-  <img src="https://i.gifer.com/Pak.gif" alt="Conejo saludando" width="500px">  
+  <img src="https://i.gifer.com/Pak.gif" alt="Conejo saludando" width="200px">  
 </div>  
 
 ---
 
-### 🌐 **Conéctate conmigo:**  
+### 🌐 **Contacta conmigo:**  
 <div align="center">  
   📫 lyn.aguayoc@gmail.com  
 </div>  
