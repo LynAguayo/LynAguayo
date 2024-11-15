@@ -48,7 +48,7 @@
 
 ### 🐾 👋⭐ **Nos vemos** ⭐👋  
 <div align="center">  
-  <img src="https://i.gifer.com/XOsX.gif" alt="Pato caminando" width="500px">  
+  <img src="https://i.gifer.com/XOsX.gif" alt="Pato caminando" width="200px">  
   <img src="https://i.gifer.com/Pak.gif" alt="Conejo saludando" width="100px">  
 </div>  
 
