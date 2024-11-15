@@ -8,7 +8,7 @@
 ---
 
 ### 🎯 **Sobre mí:**  
-- 🎓 Actualmente curso DAM y sueño con convertirme en un **Back-End Developer** especializado en **Java**.  
+- 🎓 Actualmente curso DAM y mi objetivo es convertirme en una **Back-End Developer** especializada en **Java**.  
 - 🔐 También me interesa la **Ciberseguridad** y explorar cómo proteger aplicaciones y sistemas.  
 - 🎮 En mis ratos libres, estoy desarrollando un videojuego de carreras con **Python** y **Pygame** (¡pronto compartiré más!).  
 
