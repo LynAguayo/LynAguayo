@@ -62,5 +62,5 @@
 
 ### 🏷️ **Etiquetas que me definen:**  
 <div align="center">  
-  `#EstudianteDAM` `#JavaLover` `#BackendDeveloper` `#CybersecurityFan` `#LearningEveryDay`  
+  #EstudianteDAM #JavaLover #BackendDeveloper #CybersecurityFan #LearningEveryDay 
 </div>
