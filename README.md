@@ -16,7 +16,7 @@
 - 🔐 También me interesa la **Ciberseguridad** y explorar cómo proteger aplicaciones y sistemas.  
 - 🚀 Busco oportunidades de prácticas para seguir creciendo como desarrolladora y aplicar mis conocimientos en desarrollo backend, gestión de bases de datos y la creación de aplicaciones funcionales e intuitivas.
 
-[🔗 Consulta mi LinkedIn](#www.linkedin.com/in/lynaguayo) 
+[🔗 Consulta mi LinkedIn](www.linkedin.com/in/lynaguayo) 
 
 ---
 
