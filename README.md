@@ -14,7 +14,8 @@
 ### 🎯 **Sobre mí:**  
 - 🎓 Actualmente curso DAM y mi objetivo es convertirme en una **Back-End Developer** especializada en **Java**.  
 - 🔐 También me interesa la **Ciberseguridad** y explorar cómo proteger aplicaciones y sistemas.  
-- 🎮 En mis ratos libres, estoy desarrollando un videojuego de carreras con **Python** y **Pygame** (¡pronto compartiré más!).  
+
+Estoy en búsqueda de oportunidades de prácticas para seguir creciendo como desarrolladora y poner en práctica mis conocimientos. Me interesa especialmente el desarrollo backend, la gestión de bases de datos y la creación de aplicaciones funcionales e intuitivas.
 
 [🔗 Consulta mi currículum aquí](#) <!-- Aquí puedes añadir un enlace a tu currículum en formato PDF o LinkedIn -->
 
