@@ -1,9 +1,7 @@
-<!-- Header Image -->
 <p align="center">
-  <img src="https://i.gifer.com/23wE.gif" alt="Welcome Cat" width="300px">
+  <img src="https://raw.githubusercontent.com/LynAguayo/LynAguayo/main/assets/banner.png" alt="Banner" width="100%">
 </p>
 
-<div align="center">
   
 # 🌟 Hi, I'm Lyn! 🌟  
 ### 🚀 Software Development Student (DAM) | Passionate about Back-End & Cybersecurity  
