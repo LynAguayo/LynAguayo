@@ -8,7 +8,7 @@
   <h3>🚀 Software Development Student (DAM) | Passionate about Back-End & Cybersecurity</h3>  
 
   <a href="https://github.com/LynAguayo">
-    <img src="https://img.shields.io/github/followers/LynAguayo?style=social" alt="GitHub Profile" style="border-radius:50px;"/>
+    <img src="https://img.shields.io/github/followers/LynAguayo?style=social" alt="GitHub Profile"/>
   </a>
 
 </div>
