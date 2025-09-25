@@ -77,29 +77,13 @@
 ---
 
 ### 📌 Pinned Repositories
-<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-
-  <!-- Repo 1 -->
-  <div>
-    <a href="https://github.com/LynAguayo/Projecte-OOP-JavaCar" target="_blank">
-      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=LynAguayo&repo=Projecte-OOP-JavaCar&theme=radical" alt="Projecte-OOP-JavaCar"/>
-    </a>
-    <p align="center">Java car management project using OOP principles.</p>
-  </div>
-
-  <!-- Repo 2 -->
-  <div>
-    <a href="https://github.com/LynAguayo/JavaScript-Product-Website" target="_blank">
-      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=LynAguayo&repo=JavaScript-Product-Website&theme=radical" alt="JavaScript-Product-Website"/>
-    </a>
-    <p align="center">Interactive product website built with JavaScript.</p>
-    <div align="center">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-    </div>
-  </div>
-
+<div align="center">
+  <a href="https://github.com/LynAguayo/Projecte-OOP-JavaCar">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=LynAguayo&repo=Projecte-OOP-JavaCar&theme=radical" alt="Pinned Repo"/>
+  </a>
+  <a href="https://github.com/LynAguayo/JavaScript-Product-Website">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=LynAguayo&repo=JavaScript-Product-Website&theme=radical" alt="Pinned Repo"/>
+  </a>
 </div>
 
 ---
