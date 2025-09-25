@@ -2,7 +2,7 @@
   <img src="https://github.com/LynAguayo/LynAguayo/blob/main/mybanner.png" alt="Banner" width="100%">
 </p>
 
-  
+<div align="center">  
 # 🌟 Hi, I'm Lyn! 🌟  
 ### 🚀 Software Development Student (DAM) | Passionate about Back-End & Cybersecurity  
 
