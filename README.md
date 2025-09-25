@@ -60,15 +60,6 @@
 
 ---
 
-### ⏳ WakaTime Stats
-<div align="center">
-  <a href="https://wakatime.com/@TU_USUARIO">
-    <img src="https://wakatime.com/badge/user/TU_USUARIO.svg?style=flat-square" alt="WakaTime Badge"/>
-  </a>
-</div>
-
----
-
 ### 📊 Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LynAguayo&layout=compact&theme=radical" alt="Most Used Languages"/>
