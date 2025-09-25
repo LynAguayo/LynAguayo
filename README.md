@@ -14,7 +14,7 @@
 ### 🎯 **About Me**  
 - 🎓 Currently studying **Multiplatform Application Development (DAM)** with the goal of becoming a **Back-End Developer** specialized in **Java**.  
 - 🔐 Interested in **Cybersecurity**, exploring ways to protect applications and systems.  
-- 🚀 Currently doing an internship at **Nestlé** in the **Cybersecurity Operations Center** to continue growing professionally.  
+- 🚀 Currently doing an internship at **Nestlé** in the **CyberSecurity Operations Center** to continue growing professionally.  
 
 [🔗 Visit my LinkedIn](https://www.linkedin.com/in/lynaguayo)
 
