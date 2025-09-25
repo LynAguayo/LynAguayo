@@ -78,11 +78,11 @@
 
 ### 📌 Pinned Repositories
 <div align="center">
-  <a href="[https://github.com/LynAguayo/REPO1](https://github.com/LynAguayo/Projecte-OOP-JavaCar)">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=LynAguayo&repo=REPO1&theme=radical" alt="Pinned Repo"/>
+  <a href="[https://github.com/LynAguayo/Projecte-OOP-JavaCar]">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=LynAguayo&repo=Projecte-OOP-JavaCar&theme=radical" alt="Pinned Repo"/>
   </a>
-  <a href="[https://github.com/LynAguayo/REPO2](https://github.com/LynAguayo/JavaScript-Product-Website)">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=LynAguayo&repo=REPO2&theme=radical" alt="Pinned Repo"/>
+  <a href="[https://github.com/LynAguayo/JavaScript-Product-Website]">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=LynAguayo&repo=JavaScript-Product-Website&theme=radical" alt="Pinned Repo"/>
   </a>
 </div>
 
