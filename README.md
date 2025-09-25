@@ -19,7 +19,7 @@
 - 🎓 Currently studying **Multiplatform Application Development (DAM)** with the goal of becoming a **Back-End Developer** specialized in **Java**.  
 - 🔐 Passionate about **Cybersecurity** and exploring ways to protect applications and systems.  
 - 🚀 Doing an internship at **Nestlé CyberSecurity Operations Center** to continue growing professionally.  
-- 🌐 Check my personal portfolio: [portafoli-evelyn.vercel.app](https://portafoli-evelyn.vercel.app/)
+- 🌐 Check my personal portfolio: [✨portfolio✨](https://portafoli-evelyn.vercel.app/)
 
 ---
 
