@@ -78,10 +78,10 @@
 
 ### 📌 Pinned Repositories
 <div align="center">
-  <a href="https://github.com/LynAguayo/REPO1">
+  <a href="[https://github.com/LynAguayo/REPO1](https://github.com/LynAguayo/Projecte-OOP-JavaCar)">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=LynAguayo&repo=REPO1&theme=radical" alt="Pinned Repo"/>
   </a>
-  <a href="https://github.com/LynAguayo/REPO2">
+  <a href="[https://github.com/LynAguayo/REPO2](https://github.com/LynAguayo/JavaScript-Product-Website)">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=LynAguayo&repo=REPO2&theme=radical" alt="Pinned Repo"/>
   </a>
 </div>
@@ -93,6 +93,4 @@
   📫 lyn.aguayoc@gmail.com
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+
