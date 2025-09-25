@@ -22,7 +22,7 @@
   </a>
 </div>
 
-Note: I’m in the process of recovering my LinkedIn account due to a temporary suspension.
+_Note: I’m in the process of recovering my LinkedIn account due to a temporary suspension.
 
 ---
 
